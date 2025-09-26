@@ -2,6 +2,7 @@
 Data Pre Processing for Machine Learning 
 
 📌 Objective
+
 The goal of this project is to design and implement a robust data preprocessing pipeline that improves the quality, reliability, and usefulness of raw data for machine learning applications.
 
 ⚙️ Key Steps
