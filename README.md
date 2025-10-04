@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ML-Data_Preprocessing
 Data Pre Processing for Machine Learning 
 
@@ -38,3 +39,6 @@ The goal of this project is to design and implement a robust data preprocessing 
        Pandas, NumPy → Data Handling
        Matplotlib, Seaborn → Visualization
        Scikit-learn → Encoding & Scaling
+=======
+# ML-Regression
+>>>>>>> bb29113590f81d69dd9af3cd9a002847ceb8a4c4
